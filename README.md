@@ -1,18 +1,18 @@
 ## JAVASCRIPT FUNDAMENTALS PART 2
 
-This session encompasses the followinng javascripts topics
+This javascript fundamentals encompass the followinng javascripts topics:
 
 - #### Reintroduction to Javascript objects
 
-  We were taught that everything in javascript are objects. Even objects itself is an object. We got to know the difference between primitive(numbers,strings,boolean,undefined and null) and objects. Primitive has no methods unless if they are created with the new keyword.
+  We were taught that everything in javascript are objects. Even objects itself is an object. We got to know the difference between primitive(numbers,strings,boolean,undefined and null) and objects. Primitives have no methods unless if they are created with the new keyword.
 
 - #### Arrays and Higher Order Functions
 
-  Array helps us to store similar datatypes with a single variable name and access it content in the array using an index. Array are 0 indexed meaning that the first element is located at the o 0 index.
+  Array helps us to store similar datatypes with a single variable name and access it content in the array using an index. Array are 0 indexed meaning that the first element is located at the 0 index.
 
   ##### Array as higher order function
 
-  Higher Order Function are functions that can accepts other function and also return a function as well. Also function in javascript are treated as first class citizens, meaning that they can be passed to other functions, assigned to a variable and also can be returned from other function to. We got introduced to higher order functions like filter, map , reduce,etc.
+  Higher Order Functions are functions that can accept other function and also return a function as well. Also function in javascript are treated as first class citizens, meaning that they can be passed to other functions, assigned to a variable and also can be returned from other function too. We got introduced to higher order functions like filter, map , reduce,etc.
 
 - #### DOM Manipulations
 

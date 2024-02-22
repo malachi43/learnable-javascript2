@@ -1,4 +1,4 @@
-[Live link to the todo application](https://c717c8b0-9ffe-440a-85e0-cb6f26f28a09-00-3vc5ery0mtaxa.kirk.replit.dev/)
+[Live link to todo application](https://learnable-javascript2.vercel.app/)
 
 ## JAVASCRIPT FUNDAMENTALS PART 2
 
